@@ -6,3 +6,6 @@ To start the server just execute the following command with Maven from the proje
 ```
 mvn jooby:run
 ```
+
+## Swagger UI
+The Swagger UI can be accessed by going to http://localhost:8080/swagger
